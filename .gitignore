@@ -1,1 +1,6 @@
-echo ".DS_Store" >> .gitignore
+.DS_Store
+evaluate.ipynb
+evaluation_results.json
+training_metrics.json
+.env
+
