@@ -1,6 +1,4 @@
-# models/dqn.py
-
-# model with more fc units and batch norm 
+# model with more fc units and batch norm  was at the end not use due to lower performance
 
 import torch
 import torch.nn as nn
